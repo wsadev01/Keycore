@@ -1,3 +1,6 @@
+# [ARCHIVED]
+This is done now by pynput
+
 # Keycore
 ------------------------
 Keycore is a keylogger writen in python using ctypes
